@@ -1,0 +1,9 @@
+export const INICIAL = 'INIT';
+
+export const CREATE_MATERIAS = 'CREATE_MATERIAS';
+export const UPDATE_MATERIAS = 'UPDATE_MATERIAS';
+export const DELETE_MATERIAS = 'DELETE_MATERIAS';
+
+export const CREATE_NOTAS = 'CREATE_NOTAS';
+export const UPDATE_NOTAS = 'READ_NOTAS';
+export const DELETE_NOTAS = 'DELETE_NOTAS';
